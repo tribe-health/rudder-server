@@ -33,7 +33,7 @@ require (
 	github.com/denisenkom/go-mssqldb v0.12.0
 	github.com/dgraph-io/badger/v2 v2.2007.4
 	github.com/dgraph-io/badger/v3 v3.2103.3
-	github.com/fsnotify/fsnotify v1.5.4
+	github.com/fsnotify/fsnotify v1.6.0
 	github.com/go-redis/redis v6.15.7+incompatible
 	github.com/gofrs/uuid v4.2.0+incompatible
 	github.com/golang-migrate/migrate/v4 v4.15.2
@@ -62,7 +62,7 @@ require (
 	github.com/sony/gobreaker v0.5.0
 	github.com/spaolacci/murmur3 v1.1.0
 	github.com/spf13/cast v1.5.0 // indirect
-	github.com/spf13/viper v1.13.0
+	github.com/spf13/viper v1.14.0
 	github.com/stretchr/testify v1.8.1
 	github.com/thoas/go-funk v0.9.1
 	github.com/tidwall/gjson v1.14.3
