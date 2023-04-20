@@ -42,7 +42,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/mux v1.8.0
 	github.com/hashicorp/go-retryablehttp v0.7.0
-	github.com/hashicorp/yamux v0.0.0-20200609203250-aecfd211c9ce
+	github.com/hashicorp/yamux v0.1.1
 	github.com/iancoleman/strcase v0.2.0
 	github.com/jeremywohl/flatten v1.0.1
 	github.com/joho/godotenv v1.3.0
