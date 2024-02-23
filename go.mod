@@ -48,7 +48,7 @@ require (
 	github.com/gofrs/uuid v4.4.0+incompatible
 	github.com/golang-migrate/migrate/v4 v4.16.1
 	github.com/golang/mock v1.6.0
-	github.com/gomodule/redigo v1.8.9
+	github.com/gomodule/redigo v1.9.1
 	github.com/google/uuid v1.3.0
 	github.com/hashicorp/go-retryablehttp v0.7.4
 	github.com/hashicorp/golang-lru/v2 v2.0.3
