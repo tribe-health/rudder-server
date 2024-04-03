@@ -68,7 +68,7 @@ require (
 	github.com/onsi/gomega v1.27.8
 	github.com/ory/dockertest/v3 v3.10.0
 	github.com/phayes/freeport v0.0.0-20220201140144-74d24b5ae9f5
-	github.com/prometheus/client_model v0.4.0
+	github.com/prometheus/client_model v0.6.1
 	github.com/rs/cors v1.9.0
 	github.com/rudderlabs/analytics-go v3.3.3+incompatible
 	github.com/rudderlabs/rudder-go-kit v0.15.0
@@ -97,7 +97,7 @@ require (
 	google.golang.org/api v0.125.0
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230530153820-e85fd2cbaebc
 	google.golang.org/grpc v1.55.0
-	google.golang.org/protobuf v1.30.0
+	google.golang.org/protobuf v1.33.0
 )
 
 require (
