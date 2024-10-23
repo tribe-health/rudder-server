@@ -76,7 +76,7 @@ require (
 	github.com/samber/lo v1.38.1
 	github.com/segmentio/kafka-go v0.4.40
 	github.com/snowflakedb/gosnowflake v1.6.21
-	github.com/sony/gobreaker v0.5.0
+	github.com/sony/gobreaker v1.0.0
 	github.com/spaolacci/murmur3 v1.1.0
 	github.com/spf13/viper v1.15.0
 	github.com/stretchr/testify v1.8.4
