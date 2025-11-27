@@ -21,7 +21,6 @@ replace (
 	gopkg.in/yaml.v2 => gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 => gopkg.in/yaml.v3 v3.0.1
 	k8s.io/kubernetes => k8s.io/kubernetes v1.22.2
-
 )
 
 require (
@@ -48,7 +47,7 @@ require (
 	github.com/gofrs/uuid v4.4.0+incompatible
 	github.com/golang-migrate/migrate/v4 v4.16.1
 	github.com/golang/mock v1.6.0
-	github.com/gomodule/redigo v1.8.9
+	github.com/gomodule/redigo v1.9.3
 	github.com/google/uuid v1.3.0
 	github.com/hashicorp/go-retryablehttp v0.7.4
 	github.com/hashicorp/golang-lru/v2 v2.0.3
