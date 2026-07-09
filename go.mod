@@ -21,7 +21,6 @@ replace (
 	gopkg.in/yaml.v2 => gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 => gopkg.in/yaml.v3 v3.0.1
 	k8s.io/kubernetes => k8s.io/kubernetes v1.22.2
-
 )
 
 require (
@@ -35,7 +34,7 @@ require (
 	github.com/apache/pulsar-client-go v0.10.0
 	github.com/araddon/dateparse v0.0.0-20210429162001-6b43995a97de
 	github.com/aws/aws-sdk-go v1.44.275
-	github.com/bugsnag/bugsnag-go/v2 v2.2.0
+	github.com/bugsnag/bugsnag-go/v2 v2.6.4
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/cenkalti/backoff/v4 v4.2.1
 	github.com/confluentinc/confluent-kafka-go/v2 v2.1.1
@@ -49,7 +48,7 @@ require (
 	github.com/golang-migrate/migrate/v4 v4.16.1
 	github.com/golang/mock v1.6.0
 	github.com/gomodule/redigo v1.8.9
-	github.com/google/uuid v1.3.0
+	github.com/google/uuid v1.6.0
 	github.com/hashicorp/go-retryablehttp v0.7.4
 	github.com/hashicorp/golang-lru/v2 v2.0.3
 	github.com/hashicorp/yamux v0.1.1
@@ -99,6 +98,8 @@ require (
 	google.golang.org/grpc v1.55.0
 	google.golang.org/protobuf v1.30.0
 )
+
+require github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
 
 require (
 	cloud.google.com/go v0.110.2 // indirect
